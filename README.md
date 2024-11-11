@@ -1,1 +1,1 @@
-# 02.3 - Building the First Module - Final
+# Building the First Module
